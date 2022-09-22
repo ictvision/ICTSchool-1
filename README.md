@@ -166,3 +166,5 @@ System Dependencies
 - Mbstring PHP Extension
 - Tokenizer PHP Extension
 - XML PHP Extension
+website: https://www.ictschool.net
+developed by ICT Innovations https://www.ictinnovations.com
